@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe_telecomando", "classe_telecomando\classe_telecomando.csproj", "{A462CB21-6188-4C7D-8AF3-59B9D084EACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A462CB21-6188-4C7D-8AF3-59B9D084EACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A462CB21-6188-4C7D-8AF3-59B9D084EACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A462CB21-6188-4C7D-8AF3-59B9D084EACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A462CB21-6188-4C7D-8AF3-59B9D084EACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B2BA26-3B0E-44AD-8076-04E0298F3254}
+	EndGlobalSection
+EndGlobal
