@@ -23,9 +23,15 @@ namespace classe_telecomando
 
         }
 
-        public void setcanale()
+        public void setcanale(string cambio)
         {
-            
+            canale = int.Parse(cambio);
+        }
+
+        public int getcanale()
+        {
+            int a=canale;
+            return a;
         }
     }
 }
